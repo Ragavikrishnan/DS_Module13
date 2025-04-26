@@ -1,4 +1,4 @@
-# Ex2(B) Conversion of the infix expression into postfix expression
+# Ex1(B) Conversion of the infix expression into postfix expression
 ## DATE: 22.02.2025
 ## AIM:
 To write a C program to convert the infix expression "3%2+4*(A&B)" into postfix form using stack by following the operator precedence and associative rule.
